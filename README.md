@@ -91,7 +91,7 @@ JK FLIP FLOP:
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 ```
-JK FLI[P FLOP:
+JK FLIP FLOP:
 ```
 
 ![JK (3)](https://github.com/user-attachments/assets/2f03f0cf-d226-4a8c-862b-b458ce57a0d6)
